@@ -2,12 +2,6 @@
 ### 💻 Web Developer  
 
 I’m a passionate **Nepal-based Web Developer** who builds modern, responsive, and user-friendly websites. I enjoy turning ideas into functional digital experiences using clean code and practical design.
-
----
-
-# 💫 About Me:
-I’m a **Web Developer** focused on building modern, fast, and responsive user interfaces. I enjoy crafting clean layouts, smooth interactions, and performant web experiences using modern frontend technologies.
-
 I continuously improve my skills by building real-world projects and following best practices in web development.
 
 I believe good websites should be:
