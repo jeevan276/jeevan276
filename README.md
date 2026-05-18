@@ -1,7 +1,5 @@
 ## 👋 Hi, I’m Jeevan Kami  
-### 💻 Web Developer | Nepal 🇳🇵
 
-I build **modern, responsive, and user-friendly websites** with clean code and practical design. Always learning and improving through real-world projects.
 
 ---
 
